@@ -14,14 +14,14 @@ This Policy covers the App’s own practices and, where applicable, the practice
 
 <br>
 
-## 1.0 What we collect and why
+## 1. What we collect and why
 Short summary: The App is designed to let users browse, preview, download, and export community-created mod files for Fruit Playground. The App does not require account registration and does not collect personal data by default. To provide and improve the Service we may store files and preferences locally on your device, show third-party ads, and—only if you opt in—use optional features that collect more information. Where third-party services operate (for example ad networks), their own policies apply.
 
 We use information only to provide, secure, and improve the Service, to comply with legal obligations, to communicate service-related messages, or to deliver advertising if enabled. Where required by law (for users in the EEA, UK, and Switzerland — the "Designated Countries") we rely on contract performance, legitimate interests, or your consent as the legal basis for processing described below.
 
 <br>
 
-## 2.0 Information We Do NOT Collect (by default)
+## 2. Information We Do NOT Collect (by default)
 The App does not require or collect names, email addresses, phone numbers, or other directly identifying information for normal use.
 
 The App does not upload your downloaded mod files or device contents to the developer’s servers unless you explicitly use an in-app upload/share feature.
@@ -30,7 +30,7 @@ If you enable optional features (for example cloud sync, sign-in, or analytics) 
 
 <br>
 
-## 3.0 What the App May Store or Access Locally
+## 3. What the App May Store or Access Locally
 To operate and give you the intended experience the App stores the following on your device:
 
 Downloaded mod files and temporary preview files for offline access and export.
@@ -42,7 +42,7 @@ App preferences and settings (UI preferences, last viewed folder, language, etc.
 These items remain on your device until you delete them or uninstall the App.
 <br>
 
-## 4.0 Types of Data Collected Automatically (Usage Data)
+## 4. Types of Data Collected Automatically (Usage Data)
 When you use the App we may automatically collect certain diagnostic and usage information to operate, maintain, and improve the Service. This may include:
 
 Device type and model, operating system version, app version.
@@ -57,7 +57,7 @@ This information helps us troubleshoot problems, analyze usage patterns, and imp
 
 <br>
 
-## 5.0 How We Use the Information
+## 5. How We Use the Information
 We use information for the following purposes:
 
 To provide and improve the Service: Deliver core app functionality, manage downloads, display previews, and enhance performance.
@@ -80,7 +80,7 @@ If we use your personal information for any purpose not listed here we will disc
 
 <br>
 
-## 6.0 Advertising, Tracking & Third-Party Services
+## 6. Advertising, Tracking & Third-Party Services
 The App may display ads from third-party ad networks. These partners may collect data about your device and app usage to provide, personalize and measure ads. Examples of data they may collect: IP address, device identifiers (including IDFA), and app usage data.
 
 If the App requests permission under Apple’s App Tracking Transparency (ATT), we will present the permission prompt and honor your choice.
@@ -91,7 +91,7 @@ Third-party services (ad networks, analytics, crash-reporting) have their own pr
 
 <br>
 
-## 7.0 Data Sharing & Disclosure
+## 7. Data Sharing & Disclosure
 We do not sell personal data. We share information only in limited circumstances:
 
 With service providers who perform tasks on our behalf (hosting, analytics, customer support, ad delivery). They are contractually limited to only use the data to perform services for us.
@@ -104,7 +104,7 @@ If we share data with third parties (other than the ad/analytics providers liste
 
 <br>
 
-## 8.0 Your Rights & Choices
+## 8. Your Rights & Choices
 Depending on your jurisdiction you may have rights to access, correct, delete, or restrict processing of your personal data. To exercise these rights or make requests (including GDPR or CCPA requests) contact us at brucephan15081999@gmail.com and provide enough information to identify you and the request.
 
 You can also:
@@ -117,12 +117,12 @@ Delete downloaded mod files or cached content via the App or by uninstalling the
 
 <br>
 
-## 9.0 Retention
+## 9. Retention
 Data we collect is retained only as long as needed to provide the Service, comply with legal obligations, resolve disputes, and enforce agreements. Downloaded files and cached previews are retained on your device until you delete them or uninstall the App. Temporary server-side face data (if used) is retained no longer than 24 hours.
 
 <br>
 
-## 10.0 Disclaimer & Copyright
+## 10. Disclaimer & Copyright
 • Please obtain permission from the content owner before downloading or reposting user-generated content.
 
 • This App is not affiliated with or authorized by the original game developer or any social media platform.
@@ -131,5 +131,5 @@ Data we collect is retained only as long as needed to provide the Service, compl
 
 <br>
 
-## 11.0 Contact Us
+## 11. Contact Us
 If you have questions, requests, or concerns about this Privacy Policy, contact: brucephan15081999@gmail.com
