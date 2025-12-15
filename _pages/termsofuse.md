@@ -4,11 +4,10 @@ title: Terms of Use
 include_in_header: true
 ---
 
-
+**Last updated**  
+December 15 2025
 
 # Terms of Use
-
-Last updated: December 15, 2025
 
 Welcome to Mods For Melon Playground (the “App”) and any associated website or services (collectively, the “Service”). These Terms of Use (“Terms”) govern your access to and use of the Service. By accessing or using the Service you agree to be bound by these Terms. If you do not agree, do not use the Service.
 
@@ -88,10 +87,9 @@ The Service may contain links to third-party websites or integrate third-party s
 
 Use of the Service is also governed by the Developer’s Privacy Policy, which describes how personal data is collected, used and shared. Please review the Privacy Policy before using the Service.
 
-## 11. Contact
+## 15. Contact
 
 If you have questions about these Terms, want to report content, or are a rights holder reporting an alleged infringement, contact the Developer using the contact information listed in the App Store or via the Developer website.
 
 ---
 
-_Last updated: December 15, 2025_
