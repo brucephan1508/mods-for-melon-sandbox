@@ -8,7 +8,7 @@ include_in_header: false
 December 15 2025
 
 # Introduction
-Welcome to Mods For Fruit Playground (the “App”). Your privacy matters. This Privacy Policy explains what information we collect (if any), how we use it, how we share it, the choices you have, and how we protect your information. By downloading, installing, or using the App you agree to the terms of this Privacy Policy and to the collection and use of information as described below. Unless otherwise defined, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+Welcome to Mods For Melon Playground (the “App”). Your privacy matters. This Privacy Policy explains what information we collect (if any), how we use it, how we share it, the choices you have, and how we protect your information. By downloading, installing, or using the App you agree to the terms of this Privacy Policy and to the collection and use of information as described below. Unless otherwise defined, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 This Policy covers the App’s own practices and, where applicable, the practices of third parties (for example, advertising partners or analytics providers) that you may encounter while using the App.
 
