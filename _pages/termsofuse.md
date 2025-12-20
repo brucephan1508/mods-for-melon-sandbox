@@ -89,7 +89,7 @@ Use of the Service is also governed by the Developer’s Privacy Policy, which d
 
 ## 15. Contact
 
-If you have questions about these Terms, want to report content, or are a rights holder reporting an alleged infringement, contact the Developer using the contact information listed in the App Store or via the Developer website.
+If you have questions about these Terms, want to report content, or are a rights holder reporting an alleged infringement, contact: brucephaniosdev@gmail.com
 
 ---
 

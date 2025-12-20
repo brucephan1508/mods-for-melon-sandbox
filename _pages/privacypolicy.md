@@ -132,4 +132,4 @@ Data we collect is retained only as long as needed to provide the Service, compl
 <br>
 
 ## 11. Contact Us
-If you have questions, requests, or concerns about this Privacy Policy, contact: brucephan15081999@gmail.com
+If you have questions, requests, or concerns about this Privacy Policy, contact: brucephaniosdev@gmail.com
