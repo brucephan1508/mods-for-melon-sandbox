@@ -105,11 +105,11 @@ If we share data with third parties (other than the ad/analytics providers liste
 <br>
 
 ## 8. Your Rights & Choices
-Depending on your jurisdiction you may have rights to access, correct, delete, or restrict processing of your personal data. To exercise these rights or make requests (including GDPR or CCPA requests) contact us at brucephan15081999@gmail.com and provide enough information to identify you and the request.
+Depending on your jurisdiction you may have rights to access, correct, delete, or restrict processing of your personal data. To exercise these rights or make requests (including GDPR or CCPA requests) contact us at bbrucephaniosdev@gmail.com and provide enough information to identify you and the request.
 
 You can also:
 
-Opt out of marketing communications at any time by following unsubscribe instructions in such messages or contacting brucephan15081999@gmail.com.
+Opt out of marketing communications at any time by following unsubscribe instructions in such messages or contacting brucephaniosdev@gmail.com.
 
 Deny ATT tracking permission on iOS to limit cross-app tracking.
 
